@@ -1,0 +1,24 @@
+{
+  "name": "valoremonback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "morgan": "^1.10.0",
+    "node-gyp": "^6.1.0",
+    "path": "^0.12.7",
+    "python": "0.0.4",
+    "python-shell": "^2.0.0",
+    "rebuild": "^0.1.2"
+  }
+}
